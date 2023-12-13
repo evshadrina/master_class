@@ -1,6 +1,7 @@
 table {
 border-spacing: 0;
 empty-cells: hide;
+width:100%;
 }
 td {
 padding: 10px 20px;
